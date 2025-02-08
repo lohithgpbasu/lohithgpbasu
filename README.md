@@ -17,9 +17,9 @@
 
 - 📝 I regularly write articles on [https://needforyou.ccbp.tech/](https://needforyou.ccbp.tech/)
 
-- 💬 Ask me about **HTML/CSS, Python, JavaScript, SQL, AI & ML**
+- 💬 Ask me about **HTML/CSS, Python, JavaScript, SQL, Basic Knowledge about AI & ML**
 
-- 📫 How to reach me **lohithgp14042002@gmail.com**
+- 📫 How to reach me **lohithpraju81@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1K5SetC70yw7gRD8LRNAMAaZj_5QxRVSB?usp=sharing](https://drive.google.com/drive/folders/1K5SetC70yw7gRD8LRNAMAaZj_5QxRVSB?usp=sharing)
 
