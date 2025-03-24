@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrlohithgp" target="blank"><img src="https://img.shields.io/twitter/follow/mrlohithgp?logo=twitter&style=for-the-badge" alt="mrlohithgp" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Helmet and Accident Identification System**
+- 🔭 I’m currently working on **AI-Powered Voice Personal Assistant**
 
-- 🌱 I’m currently learning **JavaScript, SQL**
+- 🌱 I’m currently learning **WordPress**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning**
 
