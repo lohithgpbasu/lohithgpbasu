@@ -26,11 +26,17 @@
 ## 🌟 Featured Projects
 
 ### 🎮 Karma Kombat: Subreddit Smackdown
+
+![Karma Kombat](https://res.cloudinary.com/djyotwnhe/image/upload/t_Banner 16:9/v1751363405/Gemini_Generated_Image_1ell6s1ell6s1ell_soccmu.jpg)
+
 Reddit meets Super Smash Bros in this pixel-art battleground! Choose your subreddit fighter (r/WallStreetBets, r/Cats, r/AITA), launch meme attacks, and use live Reddit posts as weapons. Built using Bolt.new, Reddit API, and Netlify.
 
 [Check it out](https://karma-kombat.netlify.app/)
 
 ### 💫 Kidgiland.org
+
+![Kidgiland ~ Magical Wizard](![Karma Kombat](https://res.cloudinary.com/djyotwnhe/image/upload/t_Banner 16:9/v1751363405/Gemini_Generated_Image_1ell6s1ell6s1ell_soccmu.jpg))
+
 A magical coding platform for children where every course is an enchanted quest. From HTML to AI, students embark on interactive journeys filled with gamification, animated maps, and wizard mentors. Built with React, Tailwind, TypeScript, Tavus API, and Bolt.new.
 
 [Explore Kidgiland](https://kidgiland.org)
