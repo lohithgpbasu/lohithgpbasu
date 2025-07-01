@@ -21,6 +21,22 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1K5SetC70yw7gRD8LRNAMAaZj_5QxRVSB?usp=sharing](https://drive.google.com/drive/folders/1K5SetC70yw7gRD8LRNAMAaZj_5QxRVSB?usp=sharing)
 
+---
+
+## 🌟 Featured Projects
+
+### 🎮 Karma Kombat: Subreddit Smackdown
+Reddit meets Super Smash Bros in this pixel-art battleground! Choose your subreddit fighter (r/WallStreetBets, r/Cats, r/AITA), launch meme attacks, and use live Reddit posts as weapons. Built using Bolt.new, Reddit API, and Netlify.
+
+[Check it out](https://karma-kombat.netlify.app/)
+
+### 💫 Kidgiland.org
+A magical coding platform for children where every course is an enchanted quest. From HTML to AI, students embark on interactive journeys filled with gamification, animated maps, and wizard mentors. Built with React, Tailwind, TypeScript, Tavus API, and Bolt.new.
+
+[Explore Kidgiland](https://kidgiland.org)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrlohithgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrlohithgp" height="30" width="40" /></a>
