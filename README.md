@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrlohithgp" target="blank"><img src="https://img.shields.io/twitter/follow/mrlohithgp?logo=twitter&style=for-the-badge" alt="mrlohithgp" /></a> </p>
 
-- 🙎 My **[Personal Portfolio](https://lohithgp-personal.netlify.app)**
+- 🙎 My **[Personal Portfolio](https://lohithgp-portfolio.netlify.app)**
 
 - 🌱 I’m currently learning **Full-Stack Developement**
 
