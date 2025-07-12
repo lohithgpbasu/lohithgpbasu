@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mrlohithgp" target="blank"><img src="https://img.shields.io/twitter/follow/mrlohithgp?logo=twitter&style=for-the-badge" alt="mrlohithgp" /></a> </p>
 
-- 🙎 My **[Personal Portfolio](lohithgp-personal.netlify.app)**
+- 🙎 My **[Personal Portfolio](https://lohithgp-personal.netlify.app)**
 
 - 🌱 I’m currently learning **Full-Stack Developement**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning**
 
-- 🤝 I’m looking for help with **[Kidgiland](kidgiland.org)**
+- 🤝 I’m looking for help with **[Kidgiland](https://kidgiland.org)**
 
 - 📝 I regularly write articles on [https://needforyou.ccbp.tech/](https://needforyou.ccbp.tech/)
 
