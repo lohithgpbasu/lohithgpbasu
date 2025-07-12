@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **lohithpraju81@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1K5SetC70yw7gRD8LRNAMAaZj_5QxRVSB?usp=sharing](https://drive.google.com/drive/folders/1K5SetC70yw7gRD8LRNAMAaZj_5QxRVSB?usp=sharing)
-
 ---
 
 <h3 align="left">Connect with me:</h3>
